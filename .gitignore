@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+app/build
+app/app.iml
+.gradle
+.idea
+.idea/*.*
+msgseal-client-simple-Android.iml
+msgseal-cpp
